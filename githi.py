@@ -1,5 +1,6 @@
-print("I am luncky")
+print("I am lucky")
 print("Their is no luck in my life")
-print("No god inside of hardworkers")
+print("No god inside of hard workers")
 print("The god with time pass people")
 print("This is my story")
+print("Welcome to Telusko")
