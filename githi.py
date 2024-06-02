@@ -1,0 +1,5 @@
+print("I am luncky")
+print("Their is no luck in my life")
+print("No god inside of hardworkers")
+print("The god with time pass people")
+print("This is my story")
